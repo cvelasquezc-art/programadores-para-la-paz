@@ -1,0 +1,5 @@
+http://localhost:3000: Al acceder a esta ruta principal, el servidor responde con el mensaje Servidor activo, indicando que la aplicación está funcionando correctamente.
+
+http://localhost:3000/saludo: Esta ruta devuelve el mensaje Hola comunidad, mostrando un saludo definido por el servidor.
+
+http://localhost:3000/mensaje/juan: Esta es una ruta con un parámetro dinámico. El servidor toma el valor juan de la URL y responde con el mensaje Hola juan.

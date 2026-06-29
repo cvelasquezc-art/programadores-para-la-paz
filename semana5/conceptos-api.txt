@@ -1,0 +1,10 @@
+¿Qué hace esta ruta?
+
+Esta ruta utiliza el método POST para recibir información enviada por el usuario(el envió lo hice por postman). Obtiene el valor del campo mensaje y responde en formato JSON: {
+    "estado": "Reporte recibido",
+    "mensaje": "Reporte de prueba enviado por la comunidad"
+}
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Esta ruta podría utilizarse para que los ciudadanos envíen reportes sobre problemas o situaciones de su comunidad, como daños en vías, fallas en el alumbrado público, incidentes de seguridad o sugerencias. De esta manera, la plataforma puede recibir, organizar y gestionar la información enviada por los usuarios para facilitar su seguimiento y atención.
