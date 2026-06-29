@@ -1,0 +1,2 @@
+Al enviar la petición POST a la ruta /reportes, el servidor crea un nuevo reporte con un identificador id, el tipo y la descripción enviados en el JSON. Luego guarda ese reporte en el arreglo reportes y devuelve un mensaje confirmando que fue registrado correctamente.
+Cuando posteriormente se consulta la ruta GET /reportes, el servidor responde con todos los reportes almacenados en el arreglo reportes en formato JSON.

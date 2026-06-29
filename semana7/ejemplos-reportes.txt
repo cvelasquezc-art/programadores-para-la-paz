@@ -1,0 +1,10 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Se reporta un semáforo dañado en la Carrera 1 con Calle 2, lo que está generando congestión y riesgo de accidentes."
+}
+
+{
+  "tipo": "Espacio público",
+  "descripcion": "Hay acumulación de basura en el parque del barrio y se requiere una jornada de limpieza."
+}
+
