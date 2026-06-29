@@ -1,0 +1,24 @@
+¿Qué información muestra cada comando?
+
+uname -a: Muestra MINGW64_NT-10.0-26200 Carvelasq 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+
+MINGW64_NT-10.0-26200: Indica que se está utilizando el entorno de desarrollo de 64 bits (MinGW-w64).
+
+El sufijo NT-10.0-26200 revela que se está ejecutando sobre Windows 11, específicamente bajo el número de compilación interno 26200.
+
+Carvelasq: Es el nombre de red del equipo o el nombre de usuario en la máquina.
+
+3.6.6-1cdd4371.x86_64: Corresponde a la versión del núcleo de compatibilidad POSIX
+
+2026-01-15 22:20 UTC: Es la fecha y hora exactas en las que se compiló o empaquetó esa versión específica de la capa del sistema
+
+MSYS2.x86_64: Confirma la arquitectura de hardware de 64 bits.
+
+Msys: Es el subsistema o entorno base bajo el cual corre la emulación
+
+whoami: Muestra Carlo, el nombre del usuario que está utilizando la sesión actual en el sistema.
+
+¿Por qué es útil conocer esta información al administrar un servidor?
+
+Conocer la información del sistema permite verificar el entorno en el que se está trabajando, identificar la versión del sistema operativo y confirmar el usuario con el que se tienen permisos. Esto facilita la administración del servidor, la instalación de software compatible, la solución de problemas y la ejecución de tareas de mantenimiento de forma más segura y eficiente.
+

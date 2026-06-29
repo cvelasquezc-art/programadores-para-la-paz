@@ -1,0 +1,3 @@
+1. Utilizar contraseñas seguras y únicas, combinando letras, números y caracteres especiales
+2. Mantener el sistema operativo y las aplicaciones actualizadas, ya que las actualizaciones corrigen vulnerabilidades de seguridad.
+3. No abrir enlaces o archivos de origen desconocido, para reducir el riesgo de ataques o la instalación de software malicioso.

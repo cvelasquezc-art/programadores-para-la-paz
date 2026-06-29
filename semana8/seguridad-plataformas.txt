@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras
+2. Mantener el sistema operativo, las aplicaciones y los servidores siempre actualizados.
+3. Realizar copias de seguridad periódicas para proteger la información ante fallas o pérdidas de datos.
+4. Asignar roles y permisos adecuados para que cada usuario acceda solo a la información y funciones que le corresponden.
+5. Proteger los datos personales de los usuarios mediante el uso de conexiones seguras y políticas de privacidad claras.
