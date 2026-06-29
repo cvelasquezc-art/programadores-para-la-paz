@@ -1,0 +1,4 @@
+{ 
+    "tipo": "Daño en la vía",
+    "descripcion": "Se presenta un hueco de gran tamaño en la Avenida Principal, frente al parque central, que representa un riesgo para vehículos y peatones."
+}

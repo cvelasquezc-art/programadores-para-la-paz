@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban los reportes de los ciudadanos
+de forma estructurada porque esto facilita el manejo de la información.
+Cuando los datos siguen un formato definido, es más sencillo almacenarlos, organizarlos y procesarlos.
+Además, se reducen los errores y se evita la pérdida de información importante.
+Esto también permite clasificar los reportes según su tipo o prioridad para atenderlos de manera más eficiente.
+Una estructura clara facilita el seguimiento de cada caso y la generación de estadísticas.
+Como resultado, las entidades pueden tomar mejores decisiones y responder con mayor rapidez.
+De esta forma, se fortalece la comunicación, la participación ciudadana y la confianza en la plataforma.
