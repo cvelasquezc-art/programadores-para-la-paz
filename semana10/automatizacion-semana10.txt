@@ -1,0 +1,7 @@
+Evento: Se registra un nuevo reporte de una incidencia en la plataforma comunitaria.
+
+Acción: n8n detecta el nuevo registro y envía automáticamente una notificación a un grupo o canal de Telegram.
+
+Mensaje: "Nuevo reporte recibido de tipo Infraestructura. Ingresa a la plataforma para revisar los detalles y realizar el seguimiento correspondiente."
+
+Información que no debe enviarse por seguridad: No se deben compartir nombres completos, números de identificación, direcciones, teléfonos, contraseñas ni ningún otro dato personal o sensible. Esa información debe permanecer protegida dentro de la plataforma y ser accesible únicamente para los usuarios autorizados.

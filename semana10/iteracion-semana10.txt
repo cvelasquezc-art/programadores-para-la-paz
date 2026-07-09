@@ -1,0 +1,10 @@
+Pregunta: ¿Qué 2 tareas del backlog harías primero?
+Respuesta: Las dos primeras tareas que realizaría serían registrar una incidencia y consultar los reportes registrados.
+
+Pregunta: ¿Por qué son las más importantes?
+Respuesta: Ya que son las funciones principales de una plataforma comunitaria. Sin estas características, los ciudadanos no podrían reportar problemas ni el equipo encargado podría hacer seguimiento a las incidencias.
+
+Pregunta: ¿Qué significa para ti que una tarea esté “terminada”?
+Respuesta: Para mí, una tarea está terminada cuando cumple con los requisitos definidos y está lista para ser utilizada sin presentar errores.
+
+Definición simple de terminado: La funcionalidad implementada se probó con éxito y no presenta errores. Además, los cambios ya fueron registrados y guardados en Git.
