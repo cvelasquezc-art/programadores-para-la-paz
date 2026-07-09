@@ -1,0 +1,23 @@
+Entidad: Reporte
+
+Campos principales:
+
+Id
+Tipo
+Descripción
+Fecha
+Estado
+
+Propósito: Almacenar los reportes o incidencias enviados por los ciudadanos para realizar seguimiento y gestionar su atención.
+
+Entidad: Usuario
+
+Campos principales:
+
+Id
+Nombre
+Correo
+Rol
+Contraseña
+
+Propósito: Registrar la información de los usuarios de la plataforma y controlar el acceso según el rol asignado, como ciudadano o administrador.
