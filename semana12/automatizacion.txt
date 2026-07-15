@@ -1,0 +1,5 @@
+Evento: Se registra una nueva causa en la plataforma comunitaria.
+
+Mensaje: n8n envía automáticamente un mensaje a un grupo de Telegram con el texto: "Nueva causa creada en la plataforma. Ingresa para revisarla y conocer los detalles."
+
+Información que no debe enviarse por seguridad: No se deben compartir cédulas, números de teléfono, direcciones, correos electrónicos, contraseñas, comentarios privados ni ningún otro dato personal o sensible de los usuarios.

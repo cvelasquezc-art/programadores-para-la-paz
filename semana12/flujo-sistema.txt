@@ -1,0 +1,5 @@
+1. Un ciudadano crea una nueva causa comunitaria diligenciando el formulario de la plataforma.
+2. La causa se registra automáticamente en la base de datos y queda disponible para su consulta.
+3. Otros ciudadanos ingresan a la plataforma y apoyan la causa llenando el formulario correspondiente.
+4. El sistema actualiza el contador de apoyos y almacena cada registro de forma segura.
+5. La plataforma genera un documento PDF con la información de la petición para descargar.

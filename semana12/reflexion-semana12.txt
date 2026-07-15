@@ -1,0 +1,10 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta 
+muy valiosa para fortalecer la participación ciudadana y la organización 
+comunitaria. Comprendí que plataformas digitales bien diseñadas permiten 
+registrar causas, gestionar reportes y facilitar la comunicación entre los 
+ciudadanos de forma organizada. También aprendí la importancia de proteger 
+la información mediante buenas prácticas de seguridad, autenticación y bases 
+de datos. Entendí cómo herramientas como Git, Node.js, APIs y la automatización 
+ayudan a desarrollar soluciones más eficientes y confiables. En conjunto, estos 
+conocimientos permiten crear aplicaciones que generan un impacto positivo y promueven 
+una participación más activa y transparente en la comunidad.

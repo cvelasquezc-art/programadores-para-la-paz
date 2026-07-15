@@ -1,0 +1,25 @@
+Entidad: Causa
+
+Campos:
+
+id
+titulo
+descripción
+fecha_creacion
+
+Propósito: Esta entidad almacena la información de cada causa comunitaria creada por los ciudadanos, permitiendo registrar el titulo, 
+descripción de la petición por parte del usuario ya que el id y la fecha se llenan automáticamente por el backend
+
+Entidad: Apoyo
+
+Campos:
+
+id
+causa_id
+nombre
+comentario
+fecha
+
+Propósito: Esta entidad registra los apoyos que recibe cada causa. Permitiendo registrar el nombre del ciudadano, un comentario de porque 
+apoya la causa, el campo causa_id relaciona el apoyo con la causa correspondiente, lo que permite contar los apoyos y hacer seguimiento 
+a la participación ciudadana, el id y la fecha que se llena automáticamente por el backend
